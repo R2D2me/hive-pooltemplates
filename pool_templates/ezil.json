@@ -382,9 +382,8 @@
                   "eu.ezil.me:24443",
                   "eu.ezil.me:34443"
                 ]
-
             },
-			{
+	    {
                 "geo": "EU2 Romania ETC(You need to change algo in miner config)",
                 "urls": [
                     "ro.ezil.me:4444",
@@ -394,7 +393,17 @@
                   "ro.ezil.me:24443",
                   "ro.ezil.me:34443"
                 ]
-
+            },
+	    {
+                "geo": "Russia ETC(You need to change algo in miner config)",
+                "urls": [
+                    "ru.ezil.me:4444",
+                    "ru.ezil.me:14444"
+                ],
+                "ssl_urls": [
+                  "ru.ezil.me:24443",
+                  "ru.ezil.me:34443"
+                ]
             },
             {
                 "geo": "Asia 1 ETC(You need to change algo in miner config)",
@@ -462,7 +471,7 @@
                   "eu.ezil.me:35443"
                 ]
             },
-			{
+	    {
                 "geo": "EU2 Romania ETH",
                 "urls": [
                     "ro.ezil.me:5555",
@@ -471,6 +480,17 @@
                 "ssl_urls": [
                   "ro.ezil.me:25443",
                   "ro.ezil.me:35443"
+                ]
+            },
+	    {
+                "geo": "Russia ETH",
+                "urls": [
+                    "ru.ezil.me:25555",
+                    "ru.ezil.me:15555"
+                ],
+                "ssl_urls": [
+                  "ru.ezil.me:25443",
+                  "ru.ezil.me:35443"
                 ]
             },
             {
